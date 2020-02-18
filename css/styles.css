@@ -28,6 +28,7 @@ hr {
   border-top-width: 10px;
   border-color: #EAF6F6;
   width: 5%;
+  margin: 30px auto 30px auto;
 }
 
 a {
@@ -50,8 +51,9 @@ p {
 }
 
 .intro {
-  width: 30%;
+  width: 40%;
   margin: 0 auto;
+
 }
 
 .Subtitle {
@@ -87,7 +89,7 @@ p {
   margin-right: 30px;
 }
 
-.football {
+.career {
   width: 25%;
   float: right;
   margin-left: 30px;
