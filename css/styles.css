@@ -82,7 +82,9 @@ p {
   right: 300px;
   top: 50px;
 }
-
+.photo{
+  border-radius: 100%;
+}
 .notebook {
   width: 25%;
   float: left;
